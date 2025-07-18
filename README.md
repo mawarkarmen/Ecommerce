@@ -5,7 +5,7 @@ A fully functional e-commerce platform with features like product search, shoppi
 
 ## Screenshots
 ### Homepage
-![Homepage](Screenshot-2)
+![Homepage](Screenshot-1.png)
 
 ### Product Page
 ![Product Page](Screenshot-2)
