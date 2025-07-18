@@ -5,10 +5,11 @@ A fully functional e-commerce platform with features like product search, shoppi
 
 ## Screenshots
 ### Homepage
-![Homepage](./screenshots/homepage.png)
+![Homepage](.Screenshot-2)
 
 ### Product Page
-![Product Page](./screenshots/product_page.png)
+![Product Page](.Screenshot-2)
+![Checkout Page](.Screenshot-3)
 
 ## Contributing
 1. Fork the repository.
